@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433011867059",
+    "project_id": "dbu-888e3",
+    "storage_bucket": "dbu-888e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433011867059:android:42187e4dd36dbc08371fc6",
+        "android_client_info": {
+          "package_name": "com.dbu.dbu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9ODINfD8Cs6inbc7h2HPG4UEz43wGgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
